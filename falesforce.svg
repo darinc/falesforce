@@ -1,10 +1,10 @@
-<svg width="300" height="260" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="520" xmlns="http://www.w3.org/2000/svg">
   <!-- Triangle -->
-  <polygon points="50,210 150,60 250,210" style="fill: none; stroke: black; stroke-width: 2"/>
+  <polygon points="100,420 300,120 500,420" style="fill: none; stroke: black; stroke-width: 2"/>
   <!-- Corner Labels -->
-  <text x="30" y="230" font-family="Arial" font-size="16" fill="black">Slow</text>
-  <text x="150" y="50" font-family="Arial" font-size="16" fill="black" text-anchor="middle">Bad</text>
-  <text x="285" y="230" font-family="Arial" font-size="16" fill="black" text-anchor="end">Expensive</text>
+  <text x="60" y="460" font-family="Arial" font-size="32" fill="black">Slow</text>
+  <text x="300" y="100" font-family="Arial" font-size="32" fill="black" text-anchor="middle">Bad</text>
+  <text x="570" y="460" font-family="Arial" font-size="32" fill="black" text-anchor="end">Expensive</text>
   <!-- Inside Label -->
-  <text x="150" y="160" font-family="Arial" font-size="20" fill="black" text-anchor="middle">Pick Three</text>
+  <text x="300" y="320" font-family="Arial" font-size="40" fill="black" text-anchor="middle">Pick Three</text>
 </svg>
